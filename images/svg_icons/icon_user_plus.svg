@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="icon_user_plus.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 50 50"
+   height="50mm"
+   width="50mm">
+  <defs
+     id="defs2">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-4"
+     inkscape:window-x="1912"
+     inkscape:window-height="1057"
+     inkscape:window-width="1920"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="83.008433"
+     inkscape:cx="104.62615"
+     inkscape:zoom="3.4617081"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccsccs"
+       d="m 38.897137,4.2484967 v 6.4858423 h -6.485843 v 4.076238 h 6.485843 v 6.485842 h 4.076239 v -6.485842 h 6.484663 V 10.734339 H 42.973376 V 4.2484967 Z M 18.45687,14.916885 c -3.814781,0.02866 -6.892158,3.129247 -6.892167,6.944138 -5.35e-4,3.835554 3.108586,6.945205 6.94414,6.945322 3.835554,-1.17e-4 6.944672,-3.109766 6.944137,-6.945322 -1.16e-4,-3.835094 -3.109045,-6.944024 -6.944137,-6.944138 -0.01737,-6.6e-5 -0.03465,-6.6e-5 -0.05198,0 z m -0.237415,16.530569 c -15.4959457,0 -17.67749319,14.304049 -17.67749319,14.304049 H 36.116644 c 0,0 -2.401246,-14.304049 -17.897189,-14.304049 z"
+       style="fill:#333333;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path846" />
+  </g>
+</svg>

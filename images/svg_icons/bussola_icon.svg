@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="bussola_icon.svg"
+   id="svg957"
+   viewBox="0 0 40092 40092"
+   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   version="1.1"
+   height="18.4213mm"
+   width="18.4212mm"
+   xml:space="preserve"><metadata
+   id="metadata961"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   inkscape:current-layer="svg957"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-8"
+   inkscape:window-x="-8"
+   inkscape:cy="34.811907"
+   inkscape:cx="34.811716"
+   inkscape:zoom="12.450351"
+   showgrid="false"
+   id="namedview959"
+   inkscape:window-height="1057"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+ <defs
+   id="defs951">
+  <style
+   id="style949"
+   type="text/css">
+   <![CDATA[
+    .fil0 {fill:#43B581}
+   ]]>
+  </style>
+ </defs>
+ <g
+   transform="rotate(15,20046.109,20046.26)"
+   id="Camada_x0020_1">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <path
+   id="path954"
+   d="M 30067,2689 C 39654,8223 42938,20481 37403,30067 31869,39654 19611,42938 10025,37404 439,31869 -2846,19611 2689,10025 8223,439 20481,-2846 30067,2689 Z m -8804,15249 c 1165,672 1564,2161 891,3325 -672,1165 -2161,1564 -3325,892 -1165,-673 -1563,-2162 -891,-3326 672,-1165 2161,-1563 3325,-891 z M 28789,4902 26019,23494 11303,35190 14073,16598 Z"
+   class="fil0" />
+ </g>
+</svg>
